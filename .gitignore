@@ -1,0 +1,10 @@
+
+# virtual env
+venv/
+venv_*/
+.env/
+.venv/
+
+**/__pycache__/
+
+**/.idea
